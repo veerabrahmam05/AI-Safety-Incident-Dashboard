@@ -29,12 +29,7 @@ cd AI-Safety-Incident-Dashboard-main
 npm install
 ```
 
-3. Create a `.env` file in the root directory and add necessary environment variables:
-```
-VITE_API_URL=your_api_url_here
-```
-
-4. Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
